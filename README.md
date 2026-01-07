@@ -1,16 +1,17 @@
-# tabu_oyunu
+# Tabu Kelime Oyunu Uygulaması
 
-A new Flutter project.
+Tabu oyununu dijital ortamda oynamak isteyen kullanıcılar için geliştirilmiş bir mobil uygulamadır. Oyuncuların hızlıca kelime kartlarına erişebilmesini sağlar ve fiziksel kart ihtiyacını ortadan kaldırır.
 
-## Getting Started
+## Özellikler
+- Hazır tabu kelime havuzu
+- Rastgele kelime üretme
+- Her kelime için yasaklı kelimeler gösterme
+- Temiz ve hızlı arayüz
+- Mobil kullanım için optimize edilmiş yapı
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+Projeyi klonlayın:
